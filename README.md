@@ -1,4 +1,4 @@
-# time_series_forecasting_with_xgboost-
+# Time Series Forecasting
 This notebook provides an overview of how to use XGBoost Algorithm to forecast the Energy Consumption.
 The main features of this notebook are:
 - Common Time Series Patterns
