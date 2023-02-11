@@ -7,5 +7,8 @@ The main features of this notebook are:
 - Feature Creation
 - Visualize Feature/Target Relationship
 - Model Creation
+- Forecasting Horizon Explained
+- Lag Features 
+- Training Using Cross Validation
 - Forecast on Test Set
 - Evaluation Metrics
